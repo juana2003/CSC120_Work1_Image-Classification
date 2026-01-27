@@ -20,4 +20,4 @@ Answer: Fashion MNIST is a dataset of 70,000 grayscale images of clothing items 
 6. What could be done to improve the model’s accuracy?
 
 
-[This Is The link of my Google Collab: ]( https://colab.research.google.com/drive/1UX8nKmt6ty7ni_dlURSy46Wd-XIPPokC?usp=sharing)
+[This Is The link of my Google Collab for image Classification: ]( https://colab.research.google.com/drive/1UX8nKmt6ty7ni_dlURSy46Wd-XIPPokC?usp=sharing)
