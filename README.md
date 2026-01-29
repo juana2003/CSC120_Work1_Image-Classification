@@ -28,7 +28,7 @@ If both values are the same, the model correctly classified the first test image
 
 6. What could be done to improve the model’s accuracy?
 
-Amnswer:  Model accuracy can be improved by using a more complex architecture such as CNNs, tuning hyperparameters, adding regularization,
+Answer:  Model accuracy can be improved by using a more complex architecture such as CNNs, tuning hyperparameters, adding regularization,
 and training the model for more epochs with well-preprocessed data.
 
 
